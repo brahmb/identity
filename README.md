@@ -95,6 +95,7 @@ Currently, the module supports the following countries:
 - United Kingdom (UK)
 - South Africa (ZA)
 - United States (US)
+- Canada (CA)
 
 
 ## Examples
